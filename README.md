@@ -2,7 +2,7 @@
 A list of e-books I read.
 
 # Status
-📖 Reading
-✔️ Readed
+- 📖 Reading
+- ✔️ Readed
 
 # Javascript
