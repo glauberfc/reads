@@ -5,4 +5,7 @@ A list of e-books I read.
 - 📖 Reading
 - ✔️ Readed
 
-# Javascript
+# JavaScript
+
+# TypeScript
+- ✔️ [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/content/) - [Basarat Ali Syed](https://github.com/basarat)
